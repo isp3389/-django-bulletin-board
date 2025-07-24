@@ -1,2 +1,2 @@
-# -django-bulletin-board
- django-bulletin-board
+ 掲示板アプリケーション
+ブログに近い形式で掲示板を作成し、投稿の作成（Create）、閲覧（Read）、編集（Update）、削除（Delete）といったCRUD機能を実装しました。
